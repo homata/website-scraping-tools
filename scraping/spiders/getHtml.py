@@ -16,6 +16,9 @@ class GethtmlSpider(scrapy.Spider):
         # dt_path = dt_now.strftime('%Y%m%d_%H%M%S%z')
         dt_path = dt_now.strftime('%Y%m%d')
 
+        # for post in response:
+        #    print(post)
+
         output_path = os.path.join('./downloads/', dt_path)
         os.makedirs(output_path, exist_ok=True)
 

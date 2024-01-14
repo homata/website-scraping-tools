@@ -6,6 +6,10 @@ website-scraping-tools
 * [Python, scrapy でお祭りスクレイピング](https://qiita.com/takecore@github/items/35905779504016085801)
     * [takecore/festival-crawler](https://github.com/takecore/festival-crawler)
 
+### Memo
+* [201952Pythonでスクレイピングフレームワークのscrapy入門してやんよ!!!](https://tokidoki-web.com/2019/05/pythonでスクレイピングフレームワークのscrapy入門して/)
+
+
 ### docker
 Docker build
 ```
